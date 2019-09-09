@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Split Bill</string>
+    <string name="title">Split Your Bill</string>
+    <string name="pic1">picture1</string>
+    <string name="but1">Split Here!</string>
+    <string name="btnCost">Calculate Split</string>
+    <string name="numGuest">Number of People</string>
+    <string name="prompt">Select Rating</string>
+    <string-array name="rating">
+        <item>Excellent</item>
+        <item>Average</item>
+        <item>Poor</item>
+    </string-array>
+    <string name="billCost">Cost of Bill</string>
+    <string name="service">Quality of Service?</string>
+    <string name="txtResult">result</string>
+</resources>
